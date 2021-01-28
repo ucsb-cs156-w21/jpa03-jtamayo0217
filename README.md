@@ -6,7 +6,7 @@ On Heroku: https://jpa03-jtamayo.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-jtamayo0217
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-jtamayo0217/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-jtamayo0217)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-jtamayo0217/branch/main/graph/badge.svg?token=DPFOJYGIII)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-jtamayo0217)
 
 
 ## Integrations
